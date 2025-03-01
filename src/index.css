@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+.heading1 {
+  color: blue;
+  text-align: center;
+}
