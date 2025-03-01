@@ -13,7 +13,7 @@ const HooksEX = () => {
         <h1>Hooks Example</h1>
         <input type="number" value={count} onChange={(e) => setCount(e.target.valueAsNumber)} />
         <p> { memoCalculation } </p>
-    
+        <p> { count } </p>
     </>
   )
 }
